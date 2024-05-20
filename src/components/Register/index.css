@@ -1,0 +1,18 @@
+.input-label {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.label {
+  color: #64748b;
+  margin-bottom: 20px;
+}
+.input-select {
+  font-family: 'Roboto';
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #7b8794;
+}
